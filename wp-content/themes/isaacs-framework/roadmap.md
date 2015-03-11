@@ -1,0 +1,17 @@
+# A list of files that need to be written
+
+* functions.php(contains functions for wordpress theme to run properly)
+* index.php(default styles to be shown by default)
+* header.php(header of the site)
+* footer.php(footer of the site)
+* page.php(page template for what a page should look like)
+* single.php(single post of specific page)
+* content.php (with all content types)
+* author archives(searching for author)
+* date archives(search by date)
+* category and tag archives(search by category)
+* 404.php(display 404 error)
+* full width template(full width template)
+* contact template(contact page template)
+* widgets(custom widgets)
+* css(css files)
